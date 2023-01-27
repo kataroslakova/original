@@ -1,0 +1,15 @@
+C:\Users\katar\Desktop\Example\example005_if_alse\bin\Debug\net6.0\example005_if_alse.exe
+C:\Users\katar\Desktop\Example\example005_if_alse\bin\Debug\net6.0\example005_if_alse.deps.json
+C:\Users\katar\Desktop\Example\example005_if_alse\bin\Debug\net6.0\example005_if_alse.runtimeconfig.json
+C:\Users\katar\Desktop\Example\example005_if_alse\bin\Debug\net6.0\example005_if_alse.dll
+C:\Users\katar\Desktop\Example\example005_if_alse\bin\Debug\net6.0\example005_if_alse.pdb
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.csproj.AssemblyReference.cache
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.AssemblyInfo.cs
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.dll
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\refint\example005_if_alse.dll
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.pdb
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\example005_if_alse.genruntimeconfig.cache
+C:\Users\katar\Desktop\Example\example005_if_alse\obj\Debug\net6.0\ref\example005_if_alse.dll
